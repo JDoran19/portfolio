@@ -45,7 +45,7 @@ $(document).ready(function () {
     strings: ["Music Composer"],
     typeSpeed: 100,
     backSpeed: 60,
-    loop: true,
+    loop: false,
   });
 
   // owl carousel script
